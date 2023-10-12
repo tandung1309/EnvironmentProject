@@ -11,7 +11,7 @@ Requirements: npm, python, git
 [ngrok installation](https://ngrok.com/docs/getting-started/)
 
 ```bash
-git clone https://github.com/tuanna-kite/recysion-project
+git clone git@github.com:tandung1309/EnvironmentProject.git
 cd server
 git clone https://github.com/ultralytics/yolov5  
 pip install -qr requirements.txt
@@ -44,4 +44,4 @@ yarn start
 Install 'expo' application on your mobile devices
 ## Contributing
 
-We are free to receive any feedback or critism, please contribute for better version of Recysion
+
